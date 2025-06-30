@@ -582,3 +582,189 @@ header{
      background-color: rgb(194, 7, 7);
      transition: all 0.3s ease-in-out;
 }
+
+.section--7{
+     margin-top: 40px;
+     margin-bottom: 40px;
+}
+
+.section--7 .container{
+     max-width: 1150px;
+     margin: auto;
+}
+
+.arrivals{
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+     gap: 30px;
+}
+
+.arrivals .PS5{
+     width: 100%;
+     height: 100%;
+     height: 590px;
+     border-radius: 5px;
+     background-image: url(./ps5-slim-goedkope-playstation_large\ 1.png);
+     background-position: bottom;
+     background-repeat: no-repeat;
+     grid-column: span 2;
+     grid-row: span 2;
+     position: relative;
+     color: white;
+     background-color: rgb(0,0,0);
+     width: 550px;
+     padding: 0 30px;
+}
+
+.arrivals .PS5 .text{
+     position: absolute;
+     bottom: 35px;
+     max-width: 250px;
+}
+
+.arrivals .PS5 .text h4{
+     font-size: 23px;
+     font-weight: 500;
+     margin-bottom: 10px;
+}
+
+.arrivals .PS5 .text p{
+     font-size: 13px;
+     font-weight: 200;
+     margin-bottom: 10px;
+}
+
+.arrivals .PS5 .text a{
+     color: white;
+     font-weight: 500;
+     font-size: 15px;
+     text-underline-offset: 8px;
+}
+
+.arrivals .w-collection{
+     width: 100%;
+     /* height: 100%; */
+     height: 280px;
+     border-radius: 5px;
+     background-image: url(./attractive-woman-wearing-hat-posing-black-background\ 1.png);
+     background-position: right;
+     background-repeat: no-repeat;
+     grid-column: span 2;
+     position: relative;
+     color: white;
+     background-color: rgb(0,0,0);
+     padding: 0 30px;
+}
+
+.arrivals .w-collection .text{
+     position: absolute;
+     bottom: 35px;
+     max-width: 250px;
+}
+
+.arrivals .w-collection .text h4{
+     font-size: 23px;
+     font-weight: 500;
+     margin-bottom: 10px;
+}
+
+.arrivals .w-collection .text p{
+     font-size: 13px;
+     font-weight: 200;
+     margin-bottom: 10px;
+}
+
+.arrivals .w-collection .text a{
+     color: white;
+     font-weight: 500;
+     font-size: 15px;
+     text-underline-offset: 8px;
+}
+
+.arrivals .speakers{
+     width: 100%;
+     /* height: 100%; */
+     height: 280px;
+     border-radius: 5px;
+     background-image: url(./69-694768_amazon-echo-png-clipart-transparent-amazon-echo-png\ 1.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     position: relative;
+     color: white;
+     padding: 0 30px;
+     background-color: rgb(0,0,0);
+}
+
+.arrivals .speakers .text{
+     position: absolute;
+     bottom: 35px;
+     max-width: 250px;
+}
+
+.arrivals .speakers .text h4{
+     font-size: 23px;
+     font-weight: 500;
+     margin-bottom: 10px;
+}
+
+.arrivals .speakers .text p{
+     font-size: 13px;
+     font-weight: 200;
+     margin-bottom: 10px;
+}
+
+.arrivals .speakers .text a{
+     color: white;
+     font-weight: 500;
+     font-size: 15px;
+     text-underline-offset: 8px;
+}
+
+.arrivals .perfume{
+     width: 100%;
+     /* height: 100%; */
+     height: 280px;
+     border-radius: 5px;
+     background-image: url(./652e82cd70aa6522dd785109a455904c.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     position: relative;
+     color: white;
+     padding: 0 30px;
+     background-color: rgb(0,0,0);
+}
+
+.arrivals .perfume .text{
+     position: absolute;
+     bottom: 35px;
+     max-width: 250px;
+}
+
+.arrivals .perfume .text h4{
+     font-size: 23px;
+     font-weight: 500;
+     margin-bottom: 10px;
+}
+
+.arrivals .perfume .text p{
+     font-size: 13px;
+     font-weight: 200;
+     margin-bottom: 10px;
+}
+
+.arrivals .perfume .text a{
+     color: white;
+     font-weight: 500;
+     font-size: 15px;
+     text-underline-offset: 8px;
+}
+
+.section--8{
+     margin-top: 40px;
+     margin-bottom: 40px;
+}
+
+.section--8 .container{
+     max-width: 1150px;
+     margin: auto;
+}
